@@ -1,0 +1,13 @@
+h1 {
+    padding-top: 0%;
+}
+
+.subtext {
+    font-size: 50%;
+}
+
+img {
+    /* height: 100px;
+    width: 100px; */
+    object-fit: contain;
+    }
