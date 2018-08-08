@@ -23,10 +23,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
+              "src/styles.scss",
               "src/material-kit.scss",
               "src/fontawesome.min.css",
-              "src/docs.min.css"
+              "src/docs.min.css",
+              "./node_modules/wowjs/css/libs/animate.css"
             ],
             "scripts": []
           },
